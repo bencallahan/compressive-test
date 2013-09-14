@@ -1,0 +1,25 @@
+body {
+	padding: 0 3%;
+}
+
+img {
+	margin-top: 20px;
+	width: 100%;
+}
+
+dt {
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+dd {
+	padding: 5px 0;
+}
+
+h1 {
+	font-size: 1.4em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
