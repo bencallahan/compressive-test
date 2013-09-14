@@ -18,16 +18,16 @@ The test pages have images which are 1600 X 1200 saved with a compression level 
 The HTML files are named to indicate the number of images on each page as well as whether they are a test or control page.
 
 ### 5 Images
-005-test.html
-005-control.html
+- 005-test.html
+- 005-control.html
 
 ### 10 Images
-010-test.html
-010-control.html
+- 010-test.html
+- 010-control.html
 
 ### 15 Images
-015-test.html
-015-control.html
+- 015-test.html
+- 015-control.html
 
 ...and so on.
 
